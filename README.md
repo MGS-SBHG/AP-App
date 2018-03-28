@@ -1,2 +1,3 @@
 # AP-App
-AP app projject
+Accounts Payable (AP) project
+
